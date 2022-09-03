@@ -1,8 +1,8 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Joe
-    given-names: Johnson
+  - family-names: Omnia
+    given-names: Alharbi
     orcid: https://orcid.org/0000-0003-1682-5093
 title: OmniaAlharbi1/Double-Layer-Steganography-Technique-using-DNA-Sequences-and-Images: V1.1
 version: V1.1
